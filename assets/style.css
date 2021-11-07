@@ -1,0 +1,84 @@
+* {
+    font-family: 'Crimson Text', serif;
+    margin: 3px;
+  }
+  .card {
+      align-items: center;
+      height: 400px;
+      width: 400px;
+  }
+  .card-deck {
+      margin: 10px;
+  }
+  .about {
+      margin-left: 30px;
+  }
+  .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 70px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 50%;
+    }
+    #dwnload:hover {
+      opacity: 0.8;
+    }
+    .fa:hover {
+      opacity: 0.7;
+    }
+    
+    .fa-linkedin {
+      background: #007bb5;
+      color: white;
+    }
+    .fa-instagram {
+        background: purple;
+        color: white;
+    }
+    .fa-github {
+      background: #55ACEE;
+      color: white;
+    }
+    .jumbotron {
+        background-image: url("");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .aspire {
+      font-style: italic;
+        opacity: 0.8;
+        font-size: 20px;
+    }
+    .navbar {
+        padding: 8px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+  #resume {
+    background-color: white;
+    height: 170px;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .nav-link {
+    font-size: 20px;
+    opacity: 0.9;
+    color: #007bb5;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  .email {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007bb5;
+  }
+  .download {
+    padding: 15px;
+    color: #007bb5;
+  }
+
+  
+  

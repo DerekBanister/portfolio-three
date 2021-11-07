@@ -6,6 +6,7 @@
       align-items: center;
       height: 400px;
       width: 400px;
+      margin: 10px;
   }
   .card-deck {
       margin: 10px;
@@ -20,6 +21,17 @@
       text-align: center;
       text-decoration: none;
       border-radius: 50%;
+    }
+    .db {
+      border-radius: 50%;
+    }
+    .work-images {
+      width: 90%;
+      height: 30vh;
+      object-fit: cover;
+    }
+    .hide-card {
+      border: none;
     }
     #dwnload:hover {
       opacity: 0.8;

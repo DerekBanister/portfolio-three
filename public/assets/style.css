@@ -3,7 +3,7 @@
     margin: 3px;
   }
   body {
-    background-color: rgb(245, 127, 127);
+    background-color: rgb(243, 107, 107);
   }
   .card {
     background-image: url("../images/background.png");
@@ -14,9 +14,15 @@
       margin: 10px;
       border: none;
   }
+   .duck {
+    border-bottom: solid black 2px;
+  }
   .card-deck {
       margin: 10px;
       justify-content: center;
+  }
+  .nav {
+    border: solid black 2px;
   }
   .fa {
       padding: 20px;
